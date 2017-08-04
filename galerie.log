@@ -1,3 +1,9 @@
 convert-im6.q16: InvalidColormapIndex `bmp_08.png' @ warning/image.c/SyncImage/3644.
 convert-im6.q16: InvalidColormapIndex `bmp_08.png' @ warning/image.c/SyncImage/3644.
 convert-im6.q16: InvalidColormapIndex `thumbnails/bmp_08.png' @ warning/image.c/SyncImage/3644.
+convert-im6.q16: unable to open image `thumbnails/*.png': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open file `thumbnails/*.png' @ error/png.c/ReadPNGImage/3919.
+convert-im6.q16: no images defined `thumbnails/*.png' @ error/convert.c/ConvertImageCommand/3258.
+convert-im6.q16: unable to open image `thumbnails/*.png': No such file or directory @ error/blob.c/OpenBlob/2701.
+convert-im6.q16: unable to open file `thumbnails/*.png' @ error/png.c/ReadPNGImage/3919.
+convert-im6.q16: no images defined `thumbnails/*.png' @ error/convert.c/ConvertImageCommand/3258.
